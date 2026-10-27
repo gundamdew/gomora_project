@@ -1,0 +1,16 @@
+# Godot 4+ specific ignores
+.godot/
+*.translation
+
+# Executables and large binaries
+godot.exe
+*.exe
+
+# Mono-specific (if any)
+.mono/
+data_*/
+mono_crash.*.json
+
+# System / editor files
+.DS_Store
+Thumbs.db

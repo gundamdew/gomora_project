@@ -1,0 +1,29 @@
+--- DmiManager _ready() initialized ---
+OS: Windows, UserProfile: C:\Users\Alienware
+Found candidate file at: res://assets/classes.dmi (size: 33321 bytes)
+Opening DMI file: res://assets/classes.dmi
+Read 33321 bytes
+Saved copy to: D:/gavno11/assets/classes.dmi
+Saved copy to: D:/gavno11/assets/classes.png
+Saved copy to: d:/gavno11/assets/classes.dmi
+Saved copy to: d:/gavno11/assets/classes.png
+Image loaded: 928x896 pixels
+DMI metadata text found (5512 chars)
+Parsed 91 states from text
+All DMI states: , leech1_mkultras_move, leech1_mkultras, leech1, leech1_move, leech_mkultra, leech_mkultra_move, leech_tribunal_l, leech_tribunal_r, leech_tribunal_l_move, leech_tribunal_r_move, leech_arm_l, leech_arm_r, leech_arm_l_move, leech_arm_r_move, raptor1, raptor1_move, raptor_ghetta_l, raptor_ghetta_r, raptor_ghetta_l_move, raptor_ghetta_r_move, raptor_cossack_l, raptor_cossack_r, raptor_cossack_l_move, raptor_cossack_r_move, raptor_arm_l, raptor_arm_r, raptor_arm_l_move, raptor_arm_r_move, trooper1, trooper1_move, trooper_arm_l, trooper_arm_r, trooper_arm_l_move, trooper_arm_r_move, trooper_sudan_l, trooper_sudan_r, trooper_fatwa_l, trooper_fatwa_r, trooper_sudan_l_move, trooper_sudan_r_move, trooper_fatwa_l_move, trooper_fatwa_r_move, trooper_wagner, trooper_wagner_move, crow1, crow1_move, crow_mkultra, crow_mkultra_move, crow_tribunal_r, crow_tribunal_l, crow_tribunal_r_move, crow_tribunal_l_move, augur1, augur1_move, augur_blaster_l, augur_blaster_l_move, grunt1, grunt1_move, grunt_arm_l, grunt_arm_r, grunt_arm_l_move, grunt_arm_r_move, grunt_fatwa_l, grunt_fatwa_r, grunt_sudan_l, grunt_sudan_r, grunt_fatwa_l_move, grunt_fatwa_r_move, grunt_sudan_l_move, grunt_sudan_r_move, grunt_wagner, grunt_wagner_move, templum, blaster, ghetta, cossack, tribunal, mkultra, fatwa, sudan, wagner, baby, trooper2_move, trooper2, trooper3, trooperwagner_move, trooperwagner, gruntwagner_move, gruntwagner, trooper_1hand_bu, floppa, skull
+SUCCESS: Loaded 93 states!
+Resolved base state for class='raptor', team=0 -> 'raptor1'
+Resolved two-handed overlay: class='raptor', weapon='', team=0 -> ''
+Resolved one-handed overlay: class='raptor', weapon='ghetta', hand='l', team=0 -> 'raptor_ghetta_l'
+Resolved one-handed overlay: class='raptor', weapon='cossack', hand='r', team=0 -> 'raptor_cossack_r'
+Resolved base state for class='leech', team=0 -> 'leech1'
+Resolved two-handed overlay: class='leech', weapon='mk_ultra', team=0 -> 'leech_mkultra'
+Resolved one-handed overlay: class='leech', weapon='tribunal', hand='l', team=0 -> 'leech_tribunal_l'
+Resolved one-handed overlay: class='leech', weapon='tribunal', hand='r', team=0 -> 'leech_tribunal_r'
+Resolved base state for class='leech', team=1 -> 'crow1'
+Resolved two-handed overlay: class='leech', weapon='mk_ultra', team=1 -> 'crow_mkultra'
+Resolved one-handed overlay: class='leech', weapon='tribunal', hand='l', team=1 -> 'crow_tribunal_l'
+Resolved one-handed overlay: class='leech', weapon='tribunal', hand='r', team=1 -> 'crow_tribunal_r'
+Resolved base state for class='augur', team=1 -> 'augur1'
+Resolved two-handed overlay: class='augur', weapon='', team=1 -> ''
+Resolved one-handed overlay: class='augur', weapon='blaster', hand='l', team=1 -> 'augur_blaster_l'
