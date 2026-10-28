@@ -121,16 +121,17 @@ func _create_ui() -> void:
 
 	# Title
 	var lbl_title := Label.new()
-	lbl_title.text = "PROJECT SOLOMON"
+	lbl_title.text = "QUAKE 3D: PROJECT GOMORA"
 	lbl_title.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
-	lbl_title.add_theme_font_size_override("font_size", 20)
-	lbl_title.add_theme_color_override("font_color", Color(0.95, 0.4, 0.3))
+	lbl_title.add_theme_font_size_override("font_size", 22)
+	lbl_title.add_theme_color_override("font_color", Color(1.0, 0.45, 0.2))
 	main_vbox.add_child(lbl_title)
 
 	var lbl_sub := Label.new()
-	lbl_sub.text = "Тактический 2D командный шутер | Мультиплеер & LAN"
+	lbl_sub.text = "Классический 3D Арена-Шутер в стиле Quake | Мультиплеер & LAN"
 	lbl_sub.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
-	lbl_sub.add_theme_font_size_override("font_size", 11)
+	lbl_sub.add_theme_font_size_override("font_size", 12)
+	lbl_sub.add_theme_color_override("font_color", Color(0.7, 0.8, 0.9))
 	main_vbox.add_child(lbl_sub)
 
 	# Local IP + Copy Button row

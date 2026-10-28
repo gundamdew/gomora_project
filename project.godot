@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Project Solomon - 2D Top-Down Shooter"
-config/description="Tactical top-down asymmetric shooter with locational damage, kamikaze mechanics and sector capture."
+config/name="Quake 3D: Project Gomora"
+config/description="Fast-paced Quake-style 3D arena shooter with rocket jumps, full arsenal, and LAN/Online multiplayer."
 run/main_scene="res://scenes/lobby.tscn"
 config/features=PackedStringArray("4.7", "Forward Plus")
 boot_splash/show_image=false
